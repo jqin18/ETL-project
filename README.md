@@ -40,3 +40,6 @@ Cleaning Scripts:
 
 Merging Data:
 [Merging_CSVs_updated](./Merging_CSVs_updated)
+
+link to the presentation slides:
+https://docs.google.com/presentation/d/1O11Mhii246cFzYyks2CBj2VhMFfDkZPJQu6-bq8MgyA/edit?usp=sharing
