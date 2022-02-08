@@ -1,4 +1,5 @@
 ETL Project report - COVID-19 World Vaccine Adverse Reactions
+
 Here is a link to the google doc: https://docs.google.com/document/d/1ZvE9J2yptf4uF_woFD7Z3XLTpef61PCkJJ5_qymJZo0/edit?usp=sharing
 
 Extract
@@ -24,7 +25,7 @@ We downloaded these three files and proceeded to the transformation phase of thi
 
 
 Transform: 
-1. Cleaning 
+1.Cleaning 
 Each of the three files mentioned above were cleaned individually as a first step in the transformation phase using python and jupyter notebook. 
  
 2021VAERSDATA.csv: After inspecting the entire file, only 8 out of the 35 columns were kept as these columns holds the most relevant information(VAERS_ID, RECVDATE, STATE, AGE_YRS, SEX, SYMPTOM_TEXT, RECOVD, ALLERGIES). 
