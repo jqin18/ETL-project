@@ -25,6 +25,7 @@ We downloaded these three files and proceeded to the transformation phase of thi
 
 
 Transform: 
+
 1.Cleaning 
 Each of the three files mentioned above were cleaned individually as a first step in the transformation phase using python and jupyter notebook. 
  
