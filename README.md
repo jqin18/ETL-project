@@ -39,7 +39,7 @@ Cleaning Scripts:
 [2021VaersVax_cleaning](./2021VaersVax_cleaning.ipynb)
 
 Merging Data:
-[Merging_CSVs_updated](./Merging_CSVs_updated)
+[Merging_CSVs_updated](./Merging_CSVs_updated.ipynb)
 
 
 link to the presentation slides:
