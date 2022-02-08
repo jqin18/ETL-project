@@ -1,4 +1,3 @@
-#Final ETL project Report
 ETL Project report - COVID-19 World Vaccine Adverse Reactions
 Here is a link to the google doc: https://docs.google.com/document/d/1ZvE9J2yptf4uF_woFD7Z3XLTpef61PCkJJ5_qymJZo0/edit?usp=sharing
 
