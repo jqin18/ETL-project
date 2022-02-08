@@ -1,5 +1,6 @@
 #Final ETL project Report
 ETL Project report - COVID-19 World Vaccine Adverse Reactions
+Here is a link to the google doc: https://docs.google.com/document/d/1ZvE9J2yptf4uF_woFD7Z3XLTpef61PCkJJ5_qymJZo0/edit?usp=sharing
 
 Extract
 The original dataset for this project was sourced from Kaggle (https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions), within this dataset, there are three different data sources formatted as csv files. Each csv file contains different content regarding the information reported to the vaccine adverse event reporting system (VAERS), all csv files share the same VAERS identification number.
