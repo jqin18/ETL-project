@@ -32,3 +32,11 @@ SYMPTOM-VERSION 1-5
 2021 Vaersvax.csv
 Keep columns:
 VAX_MANU, VAX_DOESE, VAX_ROUTE, VAX_SITE
+
+Cleaning Scripts: 
+[2021Vaerssytoms_cleaning](./2021Vaerssymptoms_cleaning.ipynb)
+[2021VaersData_cleaning](./2021VaersData_cleaning.ipynbipynb)
+[2021VaersVax_cleaning](./2021VaersVax_cleaning.ipynb)
+
+Merging Data:
+[Merging_CSVs_updated](./Merging_CSVs_updated)
