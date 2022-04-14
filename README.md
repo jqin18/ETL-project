@@ -39,4 +39,14 @@ Cleaning Scripts:
 [2021VaersVax_cleaning](./2021VaersVax_cleaning.ipynb)
 
 Merging Data:
-[Merging_CSVs_updated](./Merging_CSVs_updated)
+[Merging_CSVs_updated](./Merging_CSVs_updated.ipynb)
+
+Loading Data:
+[loading](./loading.ipynb)
+
+
+link to the presentation slides:
+https://docs.google.com/presentation/d/1O11Mhii246cFzYyks2CBj2VhMFfDkZPJQu6-bq8MgyA/edit?usp=sharing
+
+link to final report:
+https://docs.google.com/document/d/1ZvE9J2yptf4uF_woFD7Z3XLTpef61PCkJJ5_qymJZo0/edit?usp=sharing
